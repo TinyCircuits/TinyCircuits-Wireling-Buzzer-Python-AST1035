@@ -1,3 +1,4 @@
+# TinyCircuits Buzzer Wireling Example Program
 # This example was edited to be compatible with TinyCircuits hardware
 # Original Source by Dipto Pratyaksa: http://www.linuxcircle.com/2015/04/12/how-to-play-piezo-buzzer-tunes-on-raspberry-pi-gpio-with-pwm/
 # Modified by: Laveréna Wienclaw for TinyCircuits
